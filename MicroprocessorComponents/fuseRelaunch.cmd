@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Chris/Documents/CompE 475/Homework 1/MicroprocessorComponents/tb_SingleCycleProcessor_isim_beh.exe" -prj "C:/Users/Chris/Documents/CompE 475/Homework 1/MicroprocessorComponents/tb_SingleCycleProcessor_beh.prj" "work.tb_SingleCycleProcessor" "work.glbl" 
